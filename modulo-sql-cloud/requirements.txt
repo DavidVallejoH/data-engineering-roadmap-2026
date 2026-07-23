@@ -1,0 +1,6 @@
+snowflake-connector-python[pandas]
+snowflake-sqlalchemy
+python-dotenv
+jupyter
+jupysql
+sqlalchemy<2
